@@ -1,1 +1,1 @@
-https://kedddot.github.io/Portfolio/Portfolio.html
+https://kedddot.github.io/Portfolio/index.html
